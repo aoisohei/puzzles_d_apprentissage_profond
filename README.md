@@ -1,2 +1,2 @@
-# puzzles_d_apprentissage_profond
-puzzles_d'apprentissage_profond
+# Les puzzles d'apprentissage profond
+puzzles d'apprentissage profond
